@@ -6,7 +6,6 @@ namespace Isogram
 {
     public class Isogram
     {
-
         static HashSet<char> set = new HashSet<char>();
 
         public static bool IsIsogram(string s)
