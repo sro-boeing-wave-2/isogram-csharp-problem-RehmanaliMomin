@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "isogram", "ClassLibrary1\isogram.csproj", "{E34AAD77-4714-4CD3-8504-D825C3D7E7B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{3881684B-7A7E-46BF-93D8-E4F92F37C4B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isogram.Tests", "XUnitTestProject1\Isogram.Tests.csproj", "{3881684B-7A7E-46BF-93D8-E4F92F37C4B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
